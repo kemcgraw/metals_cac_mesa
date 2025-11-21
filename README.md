@@ -27,8 +27,8 @@ Does exposure to metals contribute to subclinical cardiovascular disease via inc
 
 ## Repository Contents
 - `analysis_script.R` - Complete analysis code with comments
-- `published_article.pdf` - Published manuscript (if included)
-- `README.md` - This file
+- `2024 - McGraw - MESA - Metals and CAC.pdf` - Published manuscript
+- `README.md` 
 
 ## Data
 Data available upon request from https://mesa-nhlbi.org/ 
