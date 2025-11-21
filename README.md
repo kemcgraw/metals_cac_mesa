@@ -38,13 +38,17 @@ Data available upon request from https://mesa-nhlbi.org/
 
 **Required packages:**
 - tidyverse
+- sas7bdat
+- sjlabelled
+- tableone
+- haven
 - nlme
 - lme4
 - bkmr
 
 Install with:
 ```R
-install.packages(c("tidyverse", "nlme", "lme4", "bkmr"))
+install.packages(c("tidyverse", "sas7bdat", "sjlabelled", "tableone", "haven", "nlme", "lme4", "bkmr"))
 ```
 
 ## Usage
