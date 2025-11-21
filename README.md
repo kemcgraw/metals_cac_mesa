@@ -20,7 +20,7 @@ Does exposure to metals contribute to subclinical cardiovascular disease via inc
 - **Statistical analysis:** Linear mixed models for repeated measures of CAC-SW, Bayesian Kernel Machine Regression for metal mixtures
 
 ## Key Findings
-- Comparing the highest to lowest quartile of urinary cadmium, CAC levels were 51% (95% CI: 32%, 74%) higher at baseline and 75% (95% CI: 47%, 107%) higher over the 10-year period. 
+- CAC levels were 51% (95% CI: 32%, 74%) higher at baseline and 75% (95% CI: 47%, 107%) higher over the 10-year period when comparing the highest to lowest quartile of urinary cadmium. 
 - For urinary tungsten, uranium, and cobalt, the corresponding CAC levels over the 10-year period were 45% (95% CI: 23%, 71%), 39% (95% CI: 17%, 64%), and 47% (95% CI: 25%, 74%) higher, respectively. 
 - For copper and zinc, the corresponding estimates dropped from 55% to 33% and from 85% to 57%, respectively, after adjustment for clinical factors.
 - The associations of metals with CAC were comparable in magnitude to those for classical CVD risk factors.
@@ -31,11 +31,10 @@ Does exposure to metals contribute to subclinical cardiovascular disease via inc
 - `README.md` - This file
 
 ## Data
-[Explain data availability - e.g., "Data available upon request from [source]" 
-or "Synthetic data included for demonstration purposes"]
+Data available upon request from https://mesa-nhlbi.org/ 
 
 ## Requirements
-**R version:** [your R version]
+**R version:** 4.4.2
 
 **Required packages:**
 - tidyverse
