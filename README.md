@@ -14,7 +14,7 @@ McGraw, K, Schilling, K, Glabonjat, R. et al. Urinary Metal Levels and Coronary 
 Does exposure to metals contribute to subclinical cardiovascular disease via increased coronary artery calcification?
 
 ## Methods
-- **Study population:** The Multi-Ethnic Study of Atherosclerosis
+- **Study population:** The Multi-Ethnic Study of Atherosclerosis (n=6,418)
 - **Exposures:** Urinary cadmium, tungsten, uranium, cobalt, copper, and zinc
 - **Outcome:** Spatially-weighted coronary artery calcification (CAC-SW)
 - **Statistical analysis:** Linear mixed models for repeated measures of CAC-SW, Bayesian Kernel Machine Regression for metal mixtures
