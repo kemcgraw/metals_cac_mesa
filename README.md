@@ -1,7 +1,7 @@
 # Metal Exposures and Coronary Artery Calcification
 
 ## Overview
-We longitudinally assessed the link between baseline exposure to metals as measured in urine and changes in coronary artery calcification in the Multi-Ethnic Study of Atherosclerosis (n=6,418). We found that toxic metals cadmium, tungsten, uranium, and essential metals cobalt, copper, and zinc were significantly associated with changes in coronary artery calcification over time, separately and as a mixture.
+We longitudinally assessed the link between baseline exposure to metals as measured in urine and changes in coronary artery calcification in the Multi-Ethnic Study of Atherosclerosis (n=6,418) using linear mixed models. We found that toxic metals cadmium, tungsten, uranium, and essential metals cobalt, copper, and zinc were significantly associated with changes in coronary artery calcification over time, separately and as a mixture.
 
 ## Publication
 McGraw, K, Schilling, K, Glabonjat, R. et al. Urinary Metal Levels and Coronary Artery Calcification: Longitudinal Evidence in the Multi-Ethnic Study of Atherosclerosis. JACC. 2024 Oct, 84 (16) 1545–1557.
@@ -26,7 +26,7 @@ Does exposure to metals contribute to subclinical cardiovascular disease via inc
 - The associations of metals with CAC were comparable in magnitude to those for classical CVD risk factors.
 
 ## Repository Contents
-- `analysis_script.R` - Complete analysis code with comments
+- `rscript_metals_cac_mesa.R` - Complete analysis code with comments
 - `2024 - McGraw - MESA - Metals and CAC.pdf` - Published manuscript
 - `README.md` 
 
@@ -52,7 +52,7 @@ install.packages(c("tidyverse", "sas7bdat", "sjlabelled", "tableone", "haven", "
 ```
 
 ## Usage
-[Brief instructions on how to run the analysis]
+Data must be in long format with multiple rows for each visit for each id number.
 
 ## Contact
 For questions about this research, contact katlyn.mcgraw.km@gmail.com
