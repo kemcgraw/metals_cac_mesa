@@ -54,9 +54,6 @@ install.packages(c("tidyverse", "sas7bdat", "sjlabelled", "tableone", "haven", "
 ## Usage
 Data must be in long format with multiple rows for each visit for each id number.
 
-## Contact
-For questions about this research, contact katlyn.mcgraw.km@gmail.com
-
 ## Citation
 If you use this code, please cite:
 
