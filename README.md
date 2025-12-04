@@ -61,5 +61,4 @@ If you use this code, please cite:
 McGraw, K, Schilling, K, Glabonjat, R. et al. Urinary Metal Levels and Coronary Artery Calcification: Longitudinal Evidence in the Multi-Ethnic Study of Atherosclerosis. JACC. 2024 Oct, 84 (16) 1545–1557. DOI: https://doi.org/10.1016/j.jacc.2024.07.020
 
 **Code repository:**
-McGraw KE. (2024). Metal Exposures and Coronary Artery Calcification Analysis Code. 
-GitHub repository: https://github.com/kemcgraw/metal-exposures-coronary-calcification
+McGraw, K. (2025). Metal Exposures and Coronary Artery Calcification Analysis Code [R Code]. https://github.com/kemcgraw/metals_cac_mesa/rscript_metals_cac_mesa
