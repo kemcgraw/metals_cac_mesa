@@ -4,6 +4,6 @@ authors:
 - family-names: "McGraw"
   given-names: "Katlyn"
   orcid: "https://orcid.org/0000-0003-1143-3920"
-title: "My Research Software"
+title: "Metal Exposures and Coronary Artery Calcification Analysis Code"
 date-released: 2017-12-18
 url: "https://github.com/kemcgraw/metals_cac_mesa/rscript_metals_cac_mesa"
